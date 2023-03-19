@@ -1,0 +1,1 @@
+C:\Users\Jack\git\computer-enhance\part1\decoding-multiple-instructions-and-suffixes\target\debug\decoding-multiple-instructions-and-suffixes.exe: C:\Users\Jack\git\computer-enhance\part1\decoding-multiple-instructions-and-suffixes\src\main.rs

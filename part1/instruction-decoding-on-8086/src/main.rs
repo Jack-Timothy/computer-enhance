@@ -1,9 +1,10 @@
 use std::fs::File;
 use std::io::{Read, Error};
 
-static INPUT_FILES: [&str; 2] = [
+static INPUT_FILES: [&str; 3] = [
     "C:\\Users\\Jack\\git\\computer-enhance\\part1\\instruction-decoding-on-8086\\input_files\\listing_0037_single_register_mov",
-    "C:\\Users\\Jack\\git\\computer-enhance\\part1\\instruction-decoding-on-8086\\input_files\\listing_0038_many_register_mov"
+    "C:\\Users\\Jack\\git\\computer-enhance\\part1\\instruction-decoding-on-8086\\input_files\\listing_0038_many_register_mov",
+    "C:\\Users\\Jack\\git\\computer-enhance\\part1\\instruction-decoding-on-8086\\input_files\\example"
 ];
 
 fn main() -> Result<(), Error> {
